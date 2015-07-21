@@ -35,6 +35,18 @@ hugoのインストールは&lt;a href=&#34;http://qiita.com/syui/items/86953809
 &lt;h2 id=&#34;テーマのcssファイル変更:23c89e730caf6d7f2c5c4ee11eb465ea&#34;&gt;テーマのCSSファイル変更&lt;/h2&gt;
 
 &lt;p&gt;既存のthemeディレクトリにある&lt;code&gt;static/css&lt;/code&gt;をルートディレクトリにあるstatic/cssにコピーして利用するのが正っぽい。&lt;/p&gt;
+
+&lt;h2 id=&#34;github-pagesにデプロイ:23c89e730caf6d7f2c5c4ee11eb465ea&#34;&gt;github pagesにデプロイ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hori-ryota.com/blog/create-blog-with-hugo-and-circleci/&#34;&gt;http://hori-ryota.com/blog/create-blog-with-hugo-and-circleci/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;hori blogさんの記事を参考に設定。
+circle CIやwerckerでもデプロイ試してみた。&lt;br /&gt;
+初めて使ったけど便利だ！&lt;br /&gt;
+社内ではjenkins使ってるけど職人化がすすむ。&lt;/p&gt;
+
+&lt;p&gt;CIツールというよりgithub pagesの仕組みがイマイチ理解しておらずそこに若干苦労。&lt;br /&gt;
+まあ終わってしまえばなんてことはない。&lt;/p&gt;
 </description>
     </item>
     

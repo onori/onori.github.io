@@ -12,10 +12,10 @@
     
     <item>
       <title>laravel5.1でschedule &#43; メール送信 &#43; Heroku</title>
-      <link>http://onori.github.io/post/post-title/</link>
+      <link>http://onori.github.io/post/laravel-schedule-mail-heroku/</link>
       <pubDate>Tue, 28 Jul 2015 19:47:10 +0900</pubDate>
       
-      <guid>http://onori.github.io/post/post-title/</guid>
+      <guid>http://onori.github.io/post/laravel-schedule-mail-heroku/</guid>
       <description>
 
 &lt;h2 id=&#34;schedule:6aa5f35fed2f498892b0237b45ad7cb5&#34;&gt;Schedule&lt;/h2&gt;

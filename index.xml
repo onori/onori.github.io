@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MAN.BLOG</title>
-    <link>http://onori.github.io/</link>
-    <description>Recent content on MAN.BLOG</description>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Tue, 28 Jul 2015 19:47:10 +0900</lastBuildDate>
-    <atom:link href="http://onori.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>laravel5.1でschedule &#43; メール送信 &#43; Heroku</title>
-      <link>http://onori.github.io/post/laravel-schedule-mail-heroku/</link>
+      <link>/post/laravel-schedule-mail-heroku/</link>
       <pubDate>Tue, 28 Jul 2015 19:47:10 +0900</pubDate>
       
-      <guid>http://onori.github.io/post/laravel-schedule-mail-heroku/</guid>
+      <guid>/post/laravel-schedule-mail-heroku/</guid>
       <description>
 
 &lt;h2 id=&#34;schedule:6aa5f35fed2f498892b0237b45ad7cb5&#34;&gt;Schedule&lt;/h2&gt;
@@ -87,11 +85,11 @@ productionではherokuを利用することを想定し、無料枠のあるmail
 &lt;p&gt;&lt;a href=&#34;https://mailtrap.io/&#34;&gt;https://mailtrap.io/&lt;/a&gt; →「Sing up」から、アカウントを作成。&lt;br /&gt;
 OAuthでサクッとやっちまうのがラク。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://onori.github.io/images/InboxesMailtrap.png&#34; alt=&#34;InboxesMailtrap.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/InboxesMailtrap.png&#34; alt=&#34;InboxesMailtrap.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;ログインページに遷移したら、「Demo inbox」をクリック&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://onori.github.io/images/Demo_inboxMailtrap.png&#34; alt=&#34;Demo_inboxMailtrap.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Demo_inboxMailtrap.png&#34; alt=&#34;Demo_inboxMailtrap.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;モザイクかかってるUsernameとPasswordを&lt;code&gt;.env&lt;/code&gt; にいれればおｋ．&lt;/p&gt;
 
@@ -118,10 +116,10 @@ MAIL_ENCRYPTION=null
 若干わかりづらかったが、&lt;/p&gt;
 
 &lt;p&gt;・ドメイン
-&lt;img src=&#34;http://onori.github.io/images/Domains_Mailgun.png&#34; alt=&#34;Domains_Mailgun.png&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/images/Domains_Mailgun.png&#34; alt=&#34;Domains_Mailgun.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;・secret
-&lt;img src=&#34;http://onori.github.io/images/mailgun_apikey.png&#34; alt=&#34;mailgun_apikey.png&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/images/mailgun_apikey.png&#34; alt=&#34;mailgun_apikey.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;である。（モザイクだらけ）&lt;/p&gt;
 
@@ -144,7 +142,7 @@ cronの設定が出来ないから。&lt;br /&gt;
 
 &lt;h2 id=&#34;schedulerの設定:6aa5f35fed2f498892b0237b45ad7cb5&#34;&gt;schedulerの設定&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://onori.github.io/images/Heroku_Scheduler.png&#34; alt=&#34;Heroku_Scheduler.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Heroku_Scheduler.png&#34; alt=&#34;Heroku_Scheduler.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;$&lt;/code&gt; マーク以後に、実行させたいコマンドを入力し、 FREQUENCYから実行タイミングを指定すれば良い。最短は &lt;strong&gt;10分&lt;/strong&gt; である。&lt;/p&gt;
 </description>
@@ -152,10 +150,10 @@ cronの設定が出来ないから。&lt;br /&gt;
     
     <item>
       <title>ブログをhugoに移行してみた</title>
-      <link>http://onori.github.io/post/first-hugo/</link>
+      <link>/post/first-hugo/</link>
       <pubDate>Mon, 20 Jul 2015 20:05:40 +0900</pubDate>
       
-      <guid>http://onori.github.io/post/first-hugo/</guid>
+      <guid>/post/first-hugo/</guid>
       <description>
 
 &lt;p&gt;記事の移行は終わってないけど、ブログをhugoへ移行してみた。&lt;br /&gt;

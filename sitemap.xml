@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://onori.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2015-07-28T19:47:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://onori.github.io/post/laravel-schedule-mail-heroku/</loc>
+    <loc>/post/laravel-schedule-mail-heroku/</loc>
     <lastmod>2015-07-28T19:47:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://onori.github.io/post/first-hugo/</loc>
+    <loc>/post/first-hugo/</loc>
     <lastmod>2015-07-20T20:05:40+09:00</lastmod>
   </url>
   

@@ -5,8 +5,25 @@
     <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Jul 2015 19:47:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2015 22:09:24 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>laravel&#43;Keen.io&#43;herokuで簡易解析</title>
+      <link>/post/laravel-keenio-heroku/</link>
+      <pubDate>Tue, 18 Aug 2015 22:09:24 +0900</pubDate>
+      
+      <guid>/post/laravel-keenio-heroku/</guid>
+      <description>
+
+&lt;p&gt;とあるシステムで簡単なアクセス解析をする必要があったため、&lt;br /&gt;
+せっかくなので存在だけは知っていたKeen.ioを使ってみた。&lt;/p&gt;
+
+&lt;h2 id=&#34;keen-io:b76c980995b62bffde186cba016701cc&#34;&gt;keen.io&lt;/h2&gt;
+
+&lt;p&gt;keen.io&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>laravel5.1でschedule &#43; メール送信 &#43; Heroku</title>
